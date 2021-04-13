@@ -6,3 +6,4 @@ Magias registradas até agora
 
 - Magia da bola de fogo
 
+- Magia do gelo
